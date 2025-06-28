@@ -1,60 +1,62 @@
-# Hi there ✨
+# 👋 Hi, I'm Shubham Madhavi
 
-Welcome to my GitHub portfolio! I'm **Shubham Harishchandra Madhavi**, an aspiring **Data Analyst** with expertise in **SQL, Python, Power BI, and Tableau**. I am passionate about extracting valuable insights from data to drive decision-making and improve business outcomes. This GitHub showcases my projects, skills, and continuous learning journey.
+Welcome to my GitHub portfolio! I'm a **Full Stack Developer** and **AI/ML Enthusiast** with a strong foundation in building scalable web applications and intelligent systems. With a Master's in Computer Science from Pace University (2024), I blend frontend/backend engineering with machine learning expertise to solve real-world problems.
 
 ---
 
-## 📚 About Me
+## 🧠 About Me
 - 🎓 **Education:** MS in Computer Science, Pace University (2024)
-- 📈 **Current Focus:** Advancing my expertise in **Data Analytics & Machine Learning**
+- 💻 **Stack:** JavaScript · React · Node.js · Python · PostgreSQL · TensorFlow · Docker · AWS
+- 🚀 **Interests:** Full Stack Development · Machine Learning · AI/NLP · DevOps · Cloud Applications
 - 🌐 **Location:** Jersey City, NJ
-- ✨ **Looking for:** Junior Data Analyst roles
+- 🧩 **Looking for:** Full-time roles in **Software Development**, **Full Stack Engineering**, or **AI/ML Engineering**
 
 ---
 
-## 📝 Skills
-### **Programming & Data Analysis**
-- **Languages:** Python, SQL, R, JavaScript
-- **Data Analytics:** Pandas, NumPy, Scikit-learn, NLTK
-- **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Other:** A/B Testing, Data Wrangling, Statistical Analysis
+## 🛠️ Skills
+### **Programming & Web**
+- JavaScript, TypeScript, Python, C++, Java
+- React, Next.js, Node.js, Express, Redux, Tailwind CSS
+- RESTful APIs, PostgreSQL, MongoDB, MySQL
+
+### **AI/ML & Data**
+- TensorFlow, PyTorch, Scikit-learn, JAX
+- Pandas, NumPy, NLP (Word2Vec, LSTM, TF-IDF)
+- PySpark, Airflow, Tableau, Power BI
+
+### **DevOps & Tools**
+- Docker, AWS, Azure, GCP, Git, Linux
 
 ---
 
-## 📊 Current Projects
-- 💡 **Stock Market Analysis:** Analyzing market trends and automating stock data retrieval.
-- 🌍 **Data Visualization Dashboards:** Enhancing Tableau and Power BI dashboards for impactful insights.
-- 🌟 **Machine Learning Models:** Experimenting with NLP and classification algorithms.
+## 🚀 Featured Projects
+### [🛡️ Credit Card Fraud Detection](https://github.com/shubhammadhavi/credit-card-fraud-detection)
+- Trained fraud detection models using **Random Forest**, **Logistic Regression**
+- Balanced imbalanced data with **SMOTE**, achieving 25% improvement in recall
+- Tuned hyperparameters with **GridSearchCV** and evaluated with **ROC-AUC**
+
+### [💬 Restaurant Sentiment Analysis](https://github.com/shubhammadhavi/sentimentAnalysis)
+- Built an **LSTM model** for NLP sentiment classification (~92% accuracy)
+- Compared with traditional ML methods using **Word2Vec + TF-IDF**
+- Deployed a **Streamlit app** for real-time sentiment prediction
+
+### [🏥 Staywell E-commerce Platform](https://github.com/PACE-Team3/Staywell)
+- Full-stack site for healthcare products with **cart, checkout, user auth**
+- Frontend: **React, Redux, Tailwind** | Backend: **Node.js, Express, PostgreSQL**
+- Built secure REST APIs and ensured efficient state management
 
 ---
 
-## 💼 Featured Projects
-### [🛠️ Credit Card Fraud Detection](https://github.com/shubhammadhavi/credit-card-fraud-detection)
-- Developed an ML model to detect fraudulent transactions with **Random Forest**.
-- Improved fraud recall by **25%** using **SMOTE for class balancing**.
-- Optimized model with **GridSearchCV**, achieving **high AUC-ROC** scores.
-
-### [👨‍💼 E-Commerce Analytics Dashboard](https://github.com/shubhammadhavi/E-Commerce-Analytics-Recommendations)
-- Built an **interactive Streamlit dashboard** analyzing **10,000+ transactions**.
-- Conducted **revenue analysis, customer segmentation, and product performance tracking**.
-- Designed **dynamic visualizations with Plotly** to drive business decisions.
-
-### [🍽️ Sentiment Analysis of Restaurant Reviews](https://github.com/shubhammadhavi/sentiment-analysis)
-- Implemented **NLP techniques** to classify restaurant reviews as **positive/negative**.
-- Visualized sentiment trends with **WordCloud and Seaborn**.
-- Deployed a **user-friendly Streamlit app** for real-time predictions.
+## 📚 Other Projects
+- 📊 **E-Commerce Analytics Dashboard**: Interactive dashboard using **Streamlit + Plotly**
+- 📈 **Stock Market Analysis**: Automated data pipelines for market trends
+- 🌍 **Bio-Brick Innovation**: $15K award-winning sustainability project (read more [here](https://www.pace.edu/news/renewing-oceans-bio-brick-revolution))
 
 ---
 
-## 📞 Connect with Me
-- 👥 **LinkedIn:** [linkedin.com/in/shubham-madhavi](https://www.linkedin.com/in/shubham-madhavi/)
-- 💻 **Portfolio Website:** [Coming Soon]
-- 📧 **Email:** shubhammadhavi9@gmail.com
+## 📫 Connect with Me
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shubham-madhavi/)
+- 💻 Portfolio Website: Coming Soon
+- 📧 Email: shubhammadhavi9@gmail.com
 
-Feel free to explore my repositories and reach out if you'd like to collaborate or discuss data-driven projects!
-
----
-
-Thanks for stopping by! 🚀
-
+Thanks for visiting! Feel free to explore my repositories or reach out to collaborate 🚀
