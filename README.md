@@ -38,11 +38,7 @@ I am a **Full Stack Software Engineer** with an MS in Computer Science (Pace Uni
 
 ---
 
-## 📊 GitHub Stats
 
-| <img src="https://github-readme-stats.vercel.app/api?username=shubhammadhavi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhammadhavi&layout=compact&theme=tokyonight" width="400" /> |
-| :---: | :---: |
----
 
 ##  Featured Projects
 
