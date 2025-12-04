@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Shubham Madhavi 👋
+# Hi, I'm Shubham Madhavi 
 
 ### Full Stack Software Engineer
 **TypeScript · React · Next.js · Node.js · PostgreSQL**
@@ -11,7 +11,7 @@
 
 <br />
 
-📍 **Jersey City, NJ** • Open to NYC Tri-State & Remote (US)
+ **Jersey City, NJ** • Open to NYC Tri-State & Remote (US)
 
 </div>
 
@@ -26,7 +26,7 @@ I am a **Full Stack Software Engineer** with an MS in Computer Science (Pace Uni
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -49,9 +49,9 @@ I am a **Full Stack Software Engineer** with an MS in Computer Science (Pace Uni
 
 ---
 
-## 🏆 Featured Projects
+##  Featured Projects
 
-### 🚗 [Bridge — End-to-End Driving School Automation](https://github.com/shubhammadhavi)
+###  [Bridge — End-to-End Driving School Automation](https://github.com/shubhammadhavi)
 **Stack:** Next.js 15, TypeScript, PostgreSQL, Drizzle ORM
 
 Building a **multi-tenant SaaS platform** for driving schools. Features comprehensive admission workflows, vehicle fleet management, and payment processing.
@@ -68,7 +68,7 @@ A **high-performance local-first application** deployed as both a web app and El
 
 ---
 
-## 💼 Experience
+##  Experience
 
 ### Software Developer (Part-time) @ Safeline Electricals
 *Aug 2021 – Present*
@@ -78,7 +78,7 @@ A **high-performance local-first application** deployed as both a web app and El
 
 ---
 
-## 🌟 Highlights & Awards
+##  Highlights & Awards
 
 * **Project Planet USA Winner:** Awarded **$15,000** grant for a sustainability technology project proposal.
 * **Performance Optimization:** Experienced with Core Web Vitals, Lighthouse, Code Splitting, and Bundle Optimization.
