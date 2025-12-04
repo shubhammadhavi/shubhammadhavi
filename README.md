@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I am a **Full Stack Software Engineer** with an MS in Computer Science (Pace University '24) and hands-on experience building scalable web applications. My focus is on writing clean, maintainable code and building responsive user interfaces using modern technologies like **TypeScript**, **React**, and **Next.js**.
 
@@ -58,8 +58,8 @@ Building a **multi-tenant SaaS platform** for driving schools. Features comprehe
 * **Business Impact:** Leading go-to-market strategy to scale across the Mumbai market; validated product-market fit through pre-launch commitments.
 * **Key Tech:** Implemented scalable admission workflows and complex state management.
 
-### 📸 [FlashCull — Photo Culling Tool](https://github.com/shubhammadhavi)
-**Links:** [View Source Code](https://github.com/shubhammadhavi) | [Live Demo](INSERT_FLASHCULL_DEMO_LINK)
+### 📸 [FlashCull — Photo Culling Tool](https://github.com/shubhammadhavi/FlashCull)
+**Links:** [View Source Code](https://github.com/shubhammadhavi/FlashCull) | [Live Demo](https://flashcull.vercel.app/)
 **Stack:** React, TypeScript, Electron, Vite
 
 A **high-performance local-first application** deployed as both a web app and Electron desktop app.
